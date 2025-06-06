@@ -114,3 +114,9 @@ Deployed Application:
 Made with passion by Chandru S
 
 🔗 GitHub: [@chan-tech5](https://github.com/chan-tech5)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
